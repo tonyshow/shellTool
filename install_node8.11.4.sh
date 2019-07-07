@@ -13,3 +13,4 @@ move  node-v8.11.4-linux-x64    nodejs
 
 ln -s /software/nodejs/bin/node     /usr/local/bin
 ln -s /software/nodejs/bin/npm     /usr/local/bin
+
